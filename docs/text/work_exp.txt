@@ -1,0 +1,78 @@
+1343 N Leverett Ave, APT 10
+Fayetteville, AR  72703
+United States
+
+4793011016
+vvuonghn@gmail.com
+
+http://vvuonghn.github.io
+https://www.linkedin.com/in/vvuonghn/
+https://github.com/vvuonghn
+
+ University or Arkansas
+
+University of Information Technology
+
+---
+Binh-Son Hua
+Assistant Professor, Trinity College Dublin
+binhson.hua@tcd.ie / binhson.hua@gmail.com
+
+Susan Gauch
+Professor, University of Arkansas
+sgauch@uark.edu
+
+
+John Gauch
+Professor, University of Arkansas
+jgauch@uark.edu
+
+---
+
+
+Hello
+My name is Vuong Ho. I will graduate in May 2025 in Computer Science. I am looking for a new position. Here is my resume: https://vvuonghn.github.io/docs/pdf/vvuonghn_resume_1page.pdf
+
+
+---
+
+
+Research assistant at University of Arkansas, Fayetteville, AR (Jun 2023 - Present)
+•  Research in 3D Scene Understanding: 3D reconstruction, 3D Point Cloud Object Detection and Segmentation, 360 view from multi-views
+• 3D Generation: 3D Reconstruction, text-to-3D, images-to-3D, NeRF, 3D Gaussian Splatting, Diffusion model, LLMs
+• Advisor: Prof. Susan Gauch and Prof. John Gauch
+
+---------
+Research Engineer
+VinAI, HCMC, Vietnam (Mar 2021 - Jun 2023)
+• Implemented a 360 surround view monitoring system from four cameras around a car and perspective projection from fisheye image (front/rear/left/right views, wheel views) which deployed success on VinFast E34. Technical based on camera intrinsic, extrinsic calibration, 3D object model, blending image
+• Implemented calibration algorithms: Intrinsic camera, Extrinsic fisheye cameras-vehicle coordinate system(Ego), LiDAR-Camera, auto-calibration
+• Implemented algorithms for mapping pixel index between Fisheye ↔ Perspective image. Estimate distance between vehicle coordinate system(Ego) to object based on calibration
+• Implemented algorithms free-space segmentation/detection based on cameras (BEV)
+• Auto Parking: Support build Occupancy Grid Map (OGM) from four cameras, researched path planning method
+• Researched and applied CV, ML/DL techniques to develop 3DOD from LiDAR Point Cloud
+
+---- 
+AI Research Resident
+VinAI (Apr 2020 - Mar 2021)
+• Research topic: 3D Point Cloud Segmentation, 3D Medical Image Segmentation
+• Proposed a 3D Point Cloud method for 3D voxel medical image segmentation dataset
+• Mentors: Dr. Binh-Son Hua
+
+-----
+AI Engineer
+VCCorp(Jun 2019 - Apr 2020)
+• Implemented a classification system using RNN/LSTM model that can predict the category, detect depraved content/violence in videos on social media
+• Implemented a VIP (very important person) detection system on videos
+
+------
+AI Intern 
+FPT Software (Mar 2017 - May 2018)
+• Implemented a 3D medical Image Segmentation model, analysis, processing, and visualization of 3D image data 
+• Implemented a object detection model for broken products when passing on conveyor belts in industrial plants
+
+----
+
+r
+
+
